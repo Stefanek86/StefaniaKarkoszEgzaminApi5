@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-position: center;
+  background-size: cover;
+  min-height: 100vh;
+}
+
+ul {
+  list-style: none;
+}
+
+.pageHeader {
+  font-family: EB Garmons, 'Times New Roman', Times, serif;
+}
+
+h1 {
+  color: black;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  padding: 1%;
+  margin-left: 200px;
+}
+
+h2 {
+  color: red;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  padding: 1%;
+  margin-left: 200px;
+}
+
+.form {
+  background-color: #0d0d0d;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  padding: 5%;
+  margin-left: 200px;
+}
+
+.form-label {
+  color: #ec0d0d;
+}
+
+.form-check {
+  color: maroon;
+}
+/*# sourceMappingURL=main.css.map */
